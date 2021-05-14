@@ -1,0 +1,16 @@
+game\Board$1.class
+game\Board.class
+game\Queen.class
+game\King.class
+game\Bishop.class
+game\CheckmatedChecker.class
+game\Pawn.class
+game\Main.class
+game\Board$2.class
+game\Knight.class
+game\Figure.class
+game\InformationBoard.class
+game\Chess.class
+game\Board$BoardListener.class
+game\Rook.class
+game\Field.class
